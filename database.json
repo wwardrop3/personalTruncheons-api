@@ -1,0 +1,150 @@
+{
+  "teams": [
+    {
+      "id": 9,
+      "name": "Will's Team"
+    },
+    {
+      "id": 12,
+      "name": "nesteset"
+    },
+    {
+      "id": 13,
+      "name": "The Bills"
+    },
+    {
+      "id": 21,
+      "name": "asdfasdf"
+    },
+    {
+      "id": 26,
+      "name": "dddddddd"
+    },
+    {
+      "id": 28,
+      "name": "asdfasdfsdf"
+    },
+    {
+      "id": 29,
+      "name": "asdfsdfsdafssdfs"
+    }
+  ],
+  "players": [
+    {
+      "playerFirstName": "Will",
+      "playerLastName": "Wardrop",
+      "teamId": "9",
+      "id": 5
+    },
+    {
+      "playerFirstName": "Lin",
+      "playerLastName": "Cao",
+      "teamId": "9",
+      "id": 6
+    },
+    {
+      "playerFirstName": "Rando",
+      "playerLastName": "Person",
+      "teamId": "9",
+      "id": 7
+    },
+    {
+      "playerFirstName": "Will",
+      "playerLastName": "Wardrop",
+      "teamId": "13",
+      "id": 14
+    }
+  ],
+  "teamScores": [
+    {
+      "teamId": 9,
+      "teamName": "Will's Team",
+      "teamScore": 0,
+      "id": 62
+    },
+    {
+      "teamId": 9,
+      "teamName": "Will's Team",
+      "teamScore": 6,
+      "id": 64
+    },
+    {
+      "teamId": 9,
+      "teamName": "Will's Team",
+      "teamScore": 11,
+      "id": 68
+    },
+    {
+      "teamId": 12,
+      "teamName": "nesteset",
+      "teamScore": 0,
+      "id": 74
+    },
+    {
+      "teamId": 9,
+      "teamName": "Will's Team",
+      "teamScore": 7,
+      "id": 76
+    },
+    {
+      "teamId": 12,
+      "teamName": "nesteset",
+      "teamScore": 6,
+      "id": 77
+    },
+    {
+      "teamId": 13,
+      "teamName": "The Bills",
+      "teamScore": 0,
+      "id": 78
+    },
+    {
+      "teamId": 9,
+      "teamName": "Will's Team",
+      "teamScore": 3,
+      "id": 79
+    },
+    {
+      "teamId": 13,
+      "teamName": "The Bills",
+      "teamScore": 6,
+      "id": 81
+    },
+    {
+      "teamId": 21,
+      "teamName": "asdfasdf",
+      "teamScore": 0,
+      "id": 89
+    },
+    {
+      "teamId": 26,
+      "teamName": "dddddddd",
+      "teamScore": 0,
+      "id": 96
+    },
+    {
+      "teamId": 9,
+      "teamName": "Will's Team",
+      "teamScore": 6,
+      "id": 98
+    },
+    {
+      "teamId": 13,
+      "teamName": "The Bills",
+      "teamScore": 5,
+      "id": 99
+    },
+    {
+      "teamId": 28,
+      "teamName": "asdfasdfsdf",
+      "teamScore": 0,
+      "id": 101
+    },
+    {
+      "teamId": 29,
+      "teamName": "asdfsdfsdafssdfs",
+      "teamScore": 0,
+      "id": 102
+    }
+  ]
+}
